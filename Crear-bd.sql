@@ -421,20 +421,3 @@ insert into nuria_orgaz.insurances
 (id_car, ins_policy, ins_company)
 values ('0015', '39785643', "Mapfre");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
