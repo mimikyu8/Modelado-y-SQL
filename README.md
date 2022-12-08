@@ -5,4 +5,4 @@ Assignment for KeepCoding-Glovo Women in Tech Bootcamp. I created a database tha
 Entity-Relationship Diagram of the model
 
 ## Crear-bd.sql
-Acript to create and fill the database
+Script with DDL and DML to create and fill the model
